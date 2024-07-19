@@ -1,0 +1,6 @@
+.Error {
+  font-size: 30px;
+  margin-top: 50px;
+  font-weight: 600;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
